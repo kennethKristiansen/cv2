@@ -1,0 +1,128 @@
+body{
+  background-color: #7393a7;
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #303841;
+
+}
+hr{
+  border-color: #393e46;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+  width: 20%;
+  margin: 100px auto;
+
+}
+
+
+h1{
+  margin-top: 50px;
+  font-family: 'Rock Salt', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+h3 , a {
+  color: #11999E;
+}
+.btn-decreption{
+  background-color: #ff9a3c;
+  border-style: none;
+  width: 10%;
+  border-radius: 50px;
+  font-family: 'Poor Story', cursive;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+.btn-decreption:hover{
+  background-color: #f98b60;
+  cursor: pointer;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #d3d6db;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 30%;
+}
+.border-pic{
+  border-radius: 50%;
+  border: #9ba6a5 solid;
+
+
+}
+.bottom-container{
+  padding-top: 20px;
+  background-color: #f0f5f9;
+
+}
+.contact-me{
+  padding-bottom: 50px;
+}
+.contact-text-color{
+  color: #47555e;
+}
+.color{
+  color: #ff9a3c;
+}
+.fonts{
+  font-family: 'Poor Story', cursive;
+  }
+
+
+.middle-container{
+    padding-top: 100px;
+
+  }
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+}
+
+.top-cloud{
+  position: absolute;
+  top : 35px;
+  right: 30%;
+}
+.top-container{
+  padding-top: 80px;
+  background-color: #f0f5f9;
+  position: relative;
+
+
+}
+.forklift-pic{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+
+}
+.pc-pic{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.skills{
+  margin-bottom: 100px;
+}
+.space{
+  padding: 20px;
+}
+.size{
+  font-size: 4rem;
+}
+.skill-text-align{
+  clear: right;
+}
